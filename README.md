@@ -10,11 +10,9 @@
 ## HTML & CSS
 - HTML Syntax and Structure  
 - CSS Styling and Selectors  
-- Semantic HTML Elements  
-- Layout Techniques (CSS Grid, Flexbox, Positioning)  
-- Responsive Web Design (Media Queries, Viewport Units)  
-- CSS Box Model (Padding, Margin, Border)  
-- CSS Typography (Fonts, Text Styles) 
+- Semantic HTML  
+- Layout Techniques (CSS Grid, Positioning)  
+- Responsive Design  
 
 ## JavaScript
 - Variable Declarations (let, const, var)  
@@ -32,6 +30,9 @@
 - Collections (List, Sets, Tuples, Dictionaries)  
 - Object-Oriented Programming (Classes, Objects)  
 - File Handling and I/O  
+- Exception Handling (try, except, finally)  
+- Lambda Functions and List Comprehensions  
+- Modules and Packages (import, pip)  
 
 ## React
 - Component-Based Architecture  
@@ -60,4 +61,4 @@
 - Building Docker Images  
 - Docker Containers  
 - Dockerfile Basics  
-- Docker Compose
+- Docker Compose  
