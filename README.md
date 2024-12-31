@@ -65,4 +65,13 @@
 - Building Docker Images  
 - Docker Containers  
 - Dockerfile Basics  
-- Docker Compose  
+- Docker Compose
+
+## Database
+- Relational Databases (SQL, Tables, Joins, Queries)  
+- Non-Relational Databases (MongoDB, Key-Value Stores)  
+- Database Design (Normalization, Indexing)  
+- CRUD Operations (Create, Read, Update, Delete)  
+- Database Migrations  
+- Database Optimization (Caching, Query Performance)  
+- Data Integrity and Constraints 
