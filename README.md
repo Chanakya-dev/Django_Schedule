@@ -10,9 +10,11 @@
 ## HTML & CSS
 - HTML Syntax and Structure  
 - CSS Styling and Selectors  
-- Semantic HTML  
-- Layout Techniques (CSS Grid, Positioning)  
-- Responsive Design  
+- Semantic HTML Elements  
+- Layout Techniques (CSS Grid, Flexbox, Positioning)  
+- Responsive Web Design (Media Queries, Viewport Units)  
+- CSS Box Model (Padding, Margin, Border)  
+- CSS Typography (Fonts, Text Styles) 
 
 ## JavaScript
 - Variable Declarations (let, const, var)  
@@ -26,10 +28,10 @@
 - Variables and Data Types  
 - Operators and Expressions  
 - Loops and Conditional Statements  
-- Functions and Parameters
+- Functions and Parameters  
 - Collections (List, Sets, Tuples, Dictionaries)  
 - Object-Oriented Programming (Classes, Objects)  
-- File Handling and I/O   
+- File Handling and I/O  
 
 ## React
 - Component-Based Architecture  
@@ -50,13 +52,12 @@
 - Asynchronous Tasks (Celery)  
 - Deployment (Gunicorn, Heroku, Static Files)  
 - Debugging and Testing (Django Shell, Unit Testing)  
-- API Integration with Frontend
+- API Integration with Frontend  
 
 ## Docker
 - Introduction to Docker  
 - Docker Installation and Setup  
 - Building Docker Images  
 - Docker Containers  
-- Dockerfile Basics
-- Docker Compose  
-
+- Dockerfile Basics  
+- Docker Compose
