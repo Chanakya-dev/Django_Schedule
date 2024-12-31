@@ -10,9 +10,11 @@
 ## HTML & CSS
 - HTML Syntax and Structure  
 - CSS Styling and Selectors  
-- Semantic HTML  
-- Layout Techniques (CSS Grid, Positioning)  
-- Responsive Design  
+- Semantic HTML Elements  
+- Layout Techniques (CSS Grid, Flexbox, Positioning)  
+- Responsive Web Design (Media Queries, Viewport Units)  
+- CSS Box Model (Padding, Margin, Border)  
+- CSS Typography (Fonts, Text Styles)  
 
 ## JavaScript
 - Variable Declarations (let, const, var)  
