@@ -52,7 +52,7 @@
 - Debugging and Testing (Django Shell, Unit Testing)  
 - API Integration with Frontend
 
-## Containerization: Docker
+## Docker
 - Introduction to Docker  
 - Docker Installation and Setup  
 - Building Docker Images  
