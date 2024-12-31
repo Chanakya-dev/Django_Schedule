@@ -43,7 +43,9 @@
 - State Management (useState, useEffect)  
 - API Interaction (Axios, Fetch)  
 - Routing (React Router)  
-- Redux (State Management, useSelector, Dispatch, Reducers, Actions)  
+- Redux Fundamentals (Store, Reducers, and Actions)  
+- State Management Hooks (useDispatch and useSelector)  
+
 
 ## Django
 - Framework Setup and Structure  
