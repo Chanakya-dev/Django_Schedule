@@ -22,16 +22,14 @@
 - Objects and Maps  
 - Event Handling  
 
-## Python I
+## Python
 - Variables and Data Types  
 - Operators and Expressions  
 - Loops and Conditional Statements  
-- Functions and Parameters  
-
-## Python II
+- Functions and Parameters
 - Collections (List, Sets, Tuples, Dictionaries)  
 - Object-Oriented Programming (Classes, Objects)  
-- File Handling and I/O  
+- File Handling and I/O   
 
 ## React
 - Component-Based Architecture  
@@ -52,4 +50,13 @@
 - Asynchronous Tasks (Celery)  
 - Deployment (Gunicorn, Heroku, Static Files)  
 - Debugging and Testing (Django Shell, Unit Testing)  
-- API Integration with Frontend  
+- API Integration with Frontend
+
+## Containerization: Docker
+- Introduction to Docker  
+- Docker Installation and Setup  
+- Building Docker Images  
+- Docker Containers  
+- Dockerfile Basics
+- Docker Compose  
+
