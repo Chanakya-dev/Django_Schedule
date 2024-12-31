@@ -1,4 +1,4 @@
-# Language and Concepts
+# Broucher
 
 ## Git and GitHub
 - Version Control  
@@ -75,3 +75,15 @@
 - Database Migrations  
 - Database Optimization (Caching, Query Performance)  
 - Data Integrity and Constraints 
+
+## Databases
+- **Relational Databases (SQL)**  
+- **NoSQL Databases (MongoDB)**  
+- **SQL Queries** (`SELECT`, `INSERT`, `UPDATE`, `DELETE`)  
+- **CRUD Operations**  
+- **Data Types and Constraints**  
+- **Joins** (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`)  
+- **Indexing and Optimization**  
+- **Transactions and Rollbacks**  
+- **Aggregation Framework**  
+- **Collections and Schemas**  
