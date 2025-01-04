@@ -55,7 +55,6 @@
 - Middleware and Request/Response Cycle  
 - Database Integration (SQLite, MongoDB)  
 - Asynchronous Tasks (Celery)  
-- Deployment (Gunicorn, Heroku, Static Files)  
 - Debugging and Testing (Django Shell, Unit Testing)  
 - API Integration with Frontend  
 
